@@ -8,5 +8,7 @@ dns预解析  //网站性能优化
 <meta name="rederer" content="webkit">
 ```
 
+双核浏览器的时候优先渲染webkit设置
+
 
 
