@@ -1,6 +1,12 @@
-```javascript
+```js
 <link rel="dns-prefetch" href="static.360buyimg.com">
 ```
 
-预dns解析  //网站优化
+dns预解析  //网站性能优化
+
+```js
+<meta name="rederer" content="webkit">
+```
+
+
 
