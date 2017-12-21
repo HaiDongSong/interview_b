@@ -14,9 +14,8 @@ dns预解析  //网站性能优化
 <div>fuck</div>
 ```
 
-```javascript
 <div>fuck you</div>
-```
+
 
 
 
