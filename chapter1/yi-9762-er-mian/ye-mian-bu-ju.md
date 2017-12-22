@@ -18,5 +18,5 @@
 | table布局 | 和flex差不多 | 麻烦 | yes |
 | grid布局 | heflex差不多，代码简单 |  | no，需要设置高度 |
 
-
+![](/assets/import19.png)
 
