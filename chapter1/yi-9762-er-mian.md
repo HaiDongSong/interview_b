@@ -16,7 +16,7 @@
 1. float部位null
 2. position部位static、relative ， 比如：absolute、fixed
 3. display是为inline-block、table-cell、table-caption、table
-4. overflow部位visible （overflow:hidden, overflow:auto）
+4. overflow部位visible （overflow:hidden, overflow:auto都可以触发）
 
 
 
