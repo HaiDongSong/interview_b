@@ -18,5 +18,9 @@
 | table布局 | 和flex差不多 | 麻烦 | yes |
 | grid布局 | heflex差不多，代码简单 |  | no，需要设置高度 |
 
-![](/assets/import19.png)
+![](/assets/import19.png)左边固定，右边自适应[https://www.cnblogs.com/weixiao-he/p/4750844.html](https://www.cnblogs.com/weixiao-he/p/4750844.html)
+
+头尾固定，中间自适应[https://www.cnblogs.com/pigtail/archive/2012/11/25/2787508.html](https://www.cnblogs.com/pigtail/archive/2012/11/25/2787508.html)
+
+flex布局[http://blog.csdn.net/u011391655/article/details/73481139](http://blog.csdn.net/u011391655/article/details/73481139)
 
