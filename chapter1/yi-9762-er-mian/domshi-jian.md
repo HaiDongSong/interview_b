@@ -7,7 +7,7 @@
 
 ##### 
 
-<div style="width:100px backgroudn:red">
+<div style="width:100px; backgroudn:red">
 
 &lt;p&gt;sdfsdfjsdkl&lt;/p&gt;
 
