@@ -5,15 +5,11 @@
 3. ##### DOM事件流
 4. ##### 描述DOM事件捕获的具体流程
 
-##### **胜多负少砥砺奋进**~~是打发斯蒂芬~~_是打发斯蒂芬_是的发生的
+##### 
 
-* 盛世嫡妃
+&lt;div style="width:100px backgroudn:red"&gt;
 
-* 水电费
+&lt;p&gt;sdfsdfjsdkl&lt;/p&gt;
 
-* [ ] 是打发斯蒂芬
-
-&lt;a href="[http://www.baidu.com"&gt](http://www.baidu.com"&gt);
-
-&lt;a href="http://www.baidu.com"&gt;
+&lt;/div&gt;
 
