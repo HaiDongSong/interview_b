@@ -16,20 +16,27 @@
 
 ![](/assets/import7.png)
 
-##### BFC的基本概念
+##### 
+
+##### BFC基本概念：
 
 * 块级格式化上下文
 
-##### BFC的原理
+##### BFCjd的原理：
 
-1. 在BFC这个元素的垂直方向上的边距的重叠
-2. BFC是一个独立区域
-3. BFC的区域不会与浮动的元素的box重叠（清除浮动的原理）
-4. BFC计算宽高时不算浮动的元素
+1. 在BFC这个元素的垂直方向上边距发生重叠
+2. BFC的区域不会与浮动元素的box重叠（用来清除浮动）
+3. BFC中的元素是一个独立的区域
+4. 计算BFC高度的时候，浮动元素也会参与计算
 
-##### 如何创建BFC
+##### 如何创建BFC：
 
-##### BFC的使用场景
+1. float部位null
+2. position部位static、relative ， 比如：absolute、fixed
+3. display是为inline-block、table-cell、table-caption、table
+4. overflow部位visible （overflow:hidden, overflow:auto都可以触发）
+
+##### BFC的使用场景：
 
 ##### 
 
