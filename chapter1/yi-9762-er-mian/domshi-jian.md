@@ -5,7 +5,4 @@
 3. ##### DOM事件流
 4. ##### 描述DOM事件捕获的具体流程
 
-&lt;font color=\#CCC size=26&gt;sdfsdf&lt;/font&gt;
-<font color="#5F9EA0" size=7>sdfsdf</font>
-
 
