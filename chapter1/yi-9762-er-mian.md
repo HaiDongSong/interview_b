@@ -1,6 +1,8 @@
 ![](/assets/import1.png)![](/assets/import2.png)
 
-##### BFC基本概念：块级格式化上下文
+##### BFC基本概念：
+
+* 块级格式化上下文
 
 ##### BFCjd的原理：
 
@@ -9,9 +11,10 @@
 3. BFC中的元素是一个独立的区域
 4. 计算BFC高度的时候，浮动元素也会参与计算
 
+##### 如何创建BFC：
 
-
-
+1. float部位null
+2. position部位static、relative ， 比如：absolute、fixed
 
 
 
