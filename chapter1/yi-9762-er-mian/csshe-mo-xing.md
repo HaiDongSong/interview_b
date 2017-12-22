@@ -31,9 +31,9 @@
 
 ##### 如何创建BFC：
 
-1. float部位null
-2. position部位static、relative ， 比如：absolute、fixed
-3. display是为inline-block、table-cell、table-caption、table
+1. float不位null
+2. position不位static、relative ， 比如：absolute、fixed
+3. display为inline-block、table-cell、table-caption、table、flex、inline-flex
 4. overflow部位visible （overflow:hidden, overflow:auto都可以触发）
 
 ##### BFC的使用场景：
