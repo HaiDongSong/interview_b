@@ -15,9 +15,7 @@
     </script>
 ```
 
------
-
-
+---
 
 ![](/assets/import59.png)instanceof判断该实例的构造函数时不严谨，只要是整个原型链上的构造函数都会返回true
 
@@ -38,7 +36,9 @@ o3.__proto__.constructor===Object
 false
 ```
 
-### 
+---
+
+
 
 ### ![](/assets/import60.png)
 
@@ -56,7 +56,6 @@ var new2 = function(func){
                 return o
             }
         };
-        
 ```
 
 console结果
@@ -81,6 +80,8 @@ o3.walk()
 VM1174:1 walk
 undefined
 ```
+
+---
 
 
 
