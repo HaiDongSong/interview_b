@@ -7,6 +7,11 @@
     * [页面布局](chapter1/yi-9762-er-mian/ye-mian-bu-ju.md)
     * [css盒模型](chapter1/yi-9762-er-mian/csshe-mo-xing.md)
     * [DOM事件](chapter1/yi-9762-er-mian/domshi-jian.md)
+    * [http协议类](chapter1/yi-9762-er-mian/httpxie-yi-lei.md)
+    * [原型链](chapter1/yi-9762-er-mian/yuan-xing-lian.md)
+    * 面向对象
+    * 安全类
+    * 通信类
 * [插曲flex布局](yi-9762-er-mian.md)
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
