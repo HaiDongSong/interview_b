@@ -11,4 +11,7 @@
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
   * [justify-content\align-items\align-self](yi-9762-er-mian/justify-contentalign-itemsalign-self.md)
+  * [align-content](yi-9762-er-mian/align-content.md)
+  * [flex-grow、shrink、basise](yi-9762-er-mian/flex-grow.md)
+  * [flex](yi-9762-er-mian/flex.md)
 
