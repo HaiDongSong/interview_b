@@ -22,7 +22,7 @@
 
 * 块级格式化上下文
 
-##### BFCjd的原理：
+##### BFC基本的原理：
 
 1. 在BFC这个元素的垂直方向上边距发生重叠
 2. BFC的区域不会与浮动元素的box重叠（用来清除浮动）
@@ -34,7 +34,7 @@
 1. float不位null
 2. position不位static、relative ， 比如：absolute、fixed
 3. display为inline-block、table-cell、table-caption、table、flex、inline-flex
-4. overflow部位visible （overflow:hidden, overflow:auto都可以触发）
+4. overflow不位visible （overflow:hidden, overflow:auto都可以触发）
 
 ##### BFC的使用场景：
 
