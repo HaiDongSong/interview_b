@@ -13,5 +13,22 @@
     </script>
 ```
 
+![](/assets/import59.png)instanceof判断该实例的构造函数时不严谨，只要是整个原型链上的构造函数都会返回true
+
+```js
+o3 instanceof Object
+true
+o3 instanceof M
+true
+o3.__proto__===M.prototype
+true
+M.prototype.__proto__===Object.prototype
+true
+o3.__proto__.constructor===M
+true
+o3.__proto__.constructor===Object
+false
+```
+
 
 
