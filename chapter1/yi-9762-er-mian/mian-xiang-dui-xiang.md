@@ -44,19 +44,17 @@
         function Child2 () {
             this.type = 'type2';
         }
-        
+
         Child2.prototype = new Parent2();
         // console.log(new Child2().sayhello());
-        
+
          var s3 = new Child2();
             var s4 = new Child2();
             s3.arr.push(4);
             console.log(s3.arr, s4.arr);
-        
+
     </script>
 ```
-
-
 
 用Parent.call\(this\)的方法继承缺点：
 
@@ -69,10 +67,7 @@ var s3 = new Child2();
             var s4 = new Child2();
             s3.arr.push(4);
             console.log(s3.arr, s4.arr);
-
 ```
 
-在父类（）中添加的数据，所有子类都会继承
-
-
+在父类（构造函数）中添加的数据，所有子类都会继承
 
