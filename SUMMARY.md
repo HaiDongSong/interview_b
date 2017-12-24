@@ -9,7 +9,7 @@
     * [DOM事件](chapter1/yi-9762-er-mian/domshi-jian.md)
     * [http协议类](chapter1/yi-9762-er-mian/httpxie-yi-lei.md)
     * [原型链](chapter1/yi-9762-er-mian/yuan-xing-lian.md)
-    * 面向对象
+    * [面向对象](chapter1/yi-9762-er-mian/mian-xiang-dui-xiang.md)
     * 安全类
     * 通信类
 * [插曲flex布局](yi-9762-er-mian.md)
