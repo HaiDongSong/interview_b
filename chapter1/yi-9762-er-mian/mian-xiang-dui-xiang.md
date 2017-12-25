@@ -52,8 +52,8 @@
             var s4 = new Child2();
             s3.arr.push(4);
             console.log(s3.arr, s4.arr);
-            
-            
+
+
          // 组合方式继承
 
         function Parent4() {
@@ -120,11 +120,11 @@
     </script>
 ```
 
-用Parent.call\(this\)的方法继承缺点：
+1.用Parent.call\(this\)的方法继承缺点：
 
 * 不完全继承
 
-让子类的prototype属性赋值为构造函数的实例，Child2.prototype = new Parent2\(\);   方法继承的缺点：
+2.让子类的prototype属性赋值为构造函数的实例，Child2.prototype = new Parent2\(\);   方法继承的缺点：
 
 ```js
 var s3 = new Child2();
@@ -134,6 +134,8 @@ var s3 = new Child2();
 ```
 
 * 在父类（构造函数）中添加的数据，所有子类都会继承
+
+3.
 
 
 
