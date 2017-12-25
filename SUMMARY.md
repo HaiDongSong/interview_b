@@ -12,6 +12,7 @@
     * [面向对象](chapter1/yi-9762-er-mian/mian-xiang-dui-xiang.md)
     * [安全类](chapter1/yi-9762-er-mian/an-quan-lei.md)
     * [通信类](chapter1/yi-9762-er-mian/tong-xin-lei.md)
+    * [算法类](chapter1/yi-9762-er-mian/suan-fa-lei.md)
 * [插曲flex布局](yi-9762-er-mian.md)
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
