@@ -38,8 +38,6 @@ false
 
 ---
 
-
-
 ### ![](/assets/import60.png)
 
 ### new运算符的js的模拟实现
