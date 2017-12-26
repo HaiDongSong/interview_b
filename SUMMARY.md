@@ -25,6 +25,13 @@
     * [职业竞争力](chapter1/zhong-mian-hr/zhi-ye-jing-zheng-li.md)
     * 职业规划
   * [面试总结](chapter1/mian-shi-zong-jie.md)
+* [Js](js.md)
+  * [JS基础知识](js/jsji-chu-zhi-shi.md)
+    * [变量类型和计算](js/jsji-chu-zhi-shi/bian-liang-lei-xing-he-ji-suan.md)
+    * [原型和原型函数](js/jsji-chu-zhi-shi/yuan-xing-he-yuan-xing-han-shu.md)
+  * JS-WEB-API
+  * 开发环境
+  * 运行环境
 * [插曲flex布局](yi-9762-er-mian.md)
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
@@ -32,10 +39,4 @@
   * [align-content](yi-9762-er-mian/align-content.md)
   * [flex-grow、shrink、basise](yi-9762-er-mian/flex-grow.md)
   * [flex](yi-9762-er-mian/flex.md)
-* [Js](js.md)
-  * [JS基础知识](js/jsji-chu-zhi-shi.md)
-    * [变量类型和计算](js/jsji-chu-zhi-shi/bian-liang-lei-xing-he-ji-suan.md)
-  * JS-WEB-API
-  * 开发环境
-  * 运行环境
 
