@@ -13,6 +13,11 @@
     * [安全类](chapter1/yi-9762-er-mian/an-quan-lei.md)
     * [通信类](chapter1/yi-9762-er-mian/tong-xin-lei.md)
     * [算法类](chapter1/yi-9762-er-mian/suan-fa-lei.md)
+  * [二面、三面](chapter1/er-mian-3001-san-mian.md)
+    * [渲染机制](chapter1/er-mian-3001-san-mian/xuan-ran-ji-zhi.md)
+    * [js运行机制](chapter1/er-mian-3001-san-mian/jsyun-xing-ji-zhi.md)
+    * [页面性能](chapter1/er-mian-3001-san-mian/ye-mian-xing-neng.md)
+    * 错误监控
 * [插曲flex布局](yi-9762-er-mian.md)
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
