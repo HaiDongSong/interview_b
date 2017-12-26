@@ -7,5 +7,5 @@ document.getElementByTagName('img');
 performance.getEntries().forEach(item=>{console.log(item.name)})
 ```
 
-![](/assets/import109.png)![](/assets/import110.png)
+![](/assets/import109.png)![](/assets/import110.png)![](/assets/import111.png)
 

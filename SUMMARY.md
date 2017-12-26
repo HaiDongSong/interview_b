@@ -18,6 +18,13 @@
     * [js运行机制](chapter1/er-mian-3001-san-mian/jsyun-xing-ji-zhi.md)
     * [页面性能](chapter1/er-mian-3001-san-mian/ye-mian-xing-neng.md)
     * [错误监控](chapter1/er-mian-3001-san-mian/cuo-wu-jian-kong.md)
+  * [三面/四面](chapter1/san-9762-si-mian.md)
+    * [业务能力](chapter1/san-9762-si-mian/ye-wu-neng-li.md)
+    * 团队协作和带人能力
+  * [终面Hr](chapter1/zhong-mian-hr.md)
+    * [职业竞争力](chapter1/zhong-mian-hr/zhi-ye-jing-zheng-li.md)
+    * 职业规划
+  * [面试总结](chapter1/mian-shi-zong-jie.md)
 * [插曲flex布局](yi-9762-er-mian.md)
   * [display:flex和flex-direction](yi-9762-er-mian/displayflexhe-flex-direction.md)
   * [order](yi-9762-er-mian/order.md)
@@ -25,4 +32,10 @@
   * [align-content](yi-9762-er-mian/align-content.md)
   * [flex-grow、shrink、basise](yi-9762-er-mian/flex-grow.md)
   * [flex](yi-9762-er-mian/flex.md)
+* [Js](js.md)
+  * [JS基础知识](js/jsji-chu-zhi-shi.md)
+    * [变量类型和计算](js/jsji-chu-zhi-shi/bian-liang-lei-xing-he-ji-suan.md)
+  * JS-WEB-API
+  * 开发环境
+  * 运行环境
 
