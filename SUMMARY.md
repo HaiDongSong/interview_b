@@ -9,7 +9,6 @@
     * [align-content](yi-9762-er-mian/align-content.md)
     * [flex-grow、shrink、basise](yi-9762-er-mian/flex-grow.md)
     * [flex](yi-9762-er-mian/flex.md)
-  * [面试准备](chapter1/mian-shi-zhun-bei.md)
   * [一面/二面](chapter1/yi-9762-er-mian.md)
     * [页面布局](chapter1/yi-9762-er-mian/ye-mian-bu-ju.md)
     * [css盒模型](chapter1/yi-9762-er-mian/csshe-mo-xing.md)
